@@ -7,7 +7,7 @@ of it?**
 Based in Spain 🇪🇸 · I write about what I build on
 [LinkedIn](https://www.linkedin.com/in/joseluis03).
 
-## Featured project
+## Featured projects
 
 ### [Sabor](https://github.com/JlMoreno00/sabor) · kitchen intelligence for self-hosted recipe managers
 
@@ -16,6 +16,15 @@ AI-agent-ready kitchen: import recipes from websites, text, photos and cooking
 videos; plan the week; build the shopping list from the plan with servings
 scaling; and sync it to Bring! with a preview before anything changes.
 Providers are pluggable and every write is previewed or confirmed.
+
+### [tenderwatch](https://github.com/JlMoreno00/tenderwatch) · Spanish public-tender alerts (archived experiment)
+
+A standard-library Python pipeline that ingests Spain's public-procurement
+open data (PLACSP ATOM/CODICE feeds), scores fire-protection relevance with
+explainable reasons and renders per-profile digests. Built and tested on
+73,000 real tenders, then dropped after a market check; the
+[case study](https://github.com/JlMoreno00/tenderwatch/blob/main/docs/case-study.md)
+explains why.
 
 ## What I care about when building agents
 
